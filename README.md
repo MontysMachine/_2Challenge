@@ -23,6 +23,7 @@ First click the generate password button. then follow the prompts according to y
 ## Credits
 
 Josh Montgomery
+UT Fullstack web development Bootcamp for providing beginning code
 along with ChatGPT for general debugging
 
 ## License
